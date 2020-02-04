@@ -58,6 +58,9 @@ namespace WeatherCalculator3
                 // Write the windchill out to the console
                 Console.WriteLine("The wind chill is " + windChill);
             }
+            
+            // Tell the user the program is ending
+            Console.WriteLine("Program has ended...Thank you!");
         }
     }
 }
